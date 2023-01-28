@@ -1,0 +1,15 @@
+button {
+  padding: 10px 20px;
+  font-size: 1.1rem;
+}
+tbody button {
+  margin-right: 10px;
+}
+tbody tr td:last-child {
+  width: 400px;
+}
+textarea{
+  width: 380px;
+  margin-top: 20px;
+  font-size: 1.3rem;
+}
